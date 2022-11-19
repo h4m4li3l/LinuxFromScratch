@@ -1,3 +1,6 @@
+# [Official page](https://www.linuxfromscratch.org/lfs/)
+
+---
 ## Long Journey...
 ### Meta
 * Make an working system the less bloated but fuctional
